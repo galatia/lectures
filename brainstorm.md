@@ -12,6 +12,7 @@
 * **Entropy & Information Theory: History and Theory** ("; I'm thinking about what you were doing at RC and about the papers Seb sent)
 * **Data and Types, Across Levels of Abstraction**  (I'm imagining like going from how stuff is represented in memory to how you write code, how languages are related, how they're related)
 * **The Architecture of the Internet: Or, What is the Internet Actually?** (technically Juan was going to do this—well, minus the subtitle—at Olympus and I'm not sure what he meant, but I'm sure you can do an excellent lecture on this topic too!)
+    * See also [this blog post](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
 * [**An OSI layer model for the 21st century**](http://davidad.github.io/blog/2014/04/24/an-osi-layer-model-for-the-21st-century/) (title stolen of course)
 * **Git, the Internet, Bittorrent, & IPFS: A Data Structures Perspective** (idk if that even makes sense)
 * [**All Boolean functions are polynomials**](http://davidad.github.io/blog/2014/04/14/all-boolean-functions-are-polynomials/) (also [these other](https://github.com/davidad/nodes) possibly totally [unrelated things](https://github.com/davidad/boolean-calculator) that also say "Boolean" >_>)
