@@ -18,5 +18,5 @@
 * [**All Boolean functions are polynomials**](http://davidad.github.io/blog/2014/04/14/all-boolean-functions-are-polynomials/) (also [these other](https://github.com/davidad/nodes) possibly totally [unrelated things](https://github.com/davidad/boolean-calculator) that also say "Boolean" >_>)
 * **Concurrency: Theory and Practice** (based on [this post](http://davidad.github.io/blog/2014/03/23/concurrency-primitives-in-intel-64-assembly/), I'm thinking like covering basics, how it works in the computer, assembly, and C)
 * [**FHTW**](https://github.com/davidad/fhtw) **&** [**FPEW**](https://github.com/davidad/fpew) (although I think they're not actually related, so perhaps let's split them up)
-* **[Insert fancy algorithm about distributed hash tables]**
+* **Kademlia**
 * **Kernels and Virtual Memory** (um no idea what I'm talking about, or rather, [what you're talking about](http://davidad.github.io/blog/2014/02/19/relocatable-vs-position-independent-code-or/) ;)
